@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcimgx",
+  "name": "MCImageExporter",
+  "description": "Minecraft utility that exports items, blocks, and entities as PNG images",
+  "version": "${version}",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["p455w0rd aka TheRealp455w0rd"],
+  "credits": "p455w0rd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
